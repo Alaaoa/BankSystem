@@ -403,8 +403,7 @@ void ShowAllBalances()
     cout << "Total Balance = " << total << endl;
 }
 
-// You can rename the remaining functions (transaction screens, menus) similarly...
-// Due to length, the pattern is identical: rename all functions and variables, logic remains.
+
 
 
 // Transaction Screens
